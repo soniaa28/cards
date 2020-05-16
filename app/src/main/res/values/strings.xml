@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">swipeCards</string>
+    <string name="leveldesc">Встав правильну букву у слово</string>
+    <string name="leveldescend">Вітаю ,рівень пройдено!</string>
+    <string name="textcon">Продовжити</string>
+    <string-array name="catlist">
+        <item>Барсик</item>
+        <item>Мурзик</item>
+        <item>Васька</item>
+        <item>Рыжик</item>
+    </string-array>
+
+</resources>
